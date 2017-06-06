@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.12.5)  6 JUN 2017 21:15
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.12.5)  7 JUN 2017 01:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -560,30 +560,36 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 14.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./report.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (9.07953pt too wide) in paragraph at lines 81--90
+\T2A/cmr/m/n/10 сре-ди $\OML/cmm/m/it/10 n$ \T2A/cmr/m/n/10 сво-бод-ных ауди-то
+-рий. Пусть $\OML/cmm/m/it/10 c[]$ \T2A/cmr/m/n/10 со-от-вет-сву-ет "сто-и-мо-с
+ти"назначения
+ []
+
+[2] (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 2408 strings out of 494515
- 25842 string characters out of 6173718
+ 2415 strings out of 494515
+ 25935 string characters out of 6173718
  81743 words of memory out of 5000000
- 5628 multiletter control sequences out of 15000+600000
+ 5635 multiletter control sequences out of 15000+600000
  11866 words of font info for 30 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 27i,9n,24p,450b,161s stack positions out of 5000i,500n,10000p,200000b,80000s
- </hom
-e/nek/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/lati1000.600pk> </home/nek/.texmf-va
-r/fonts/pk/ljfour/lh/lh-t2a/labx1200.600pk> </home/nek/.texmf-var/fonts/pk/ljfo
-ur/lh/lh-t2a/larm1000.600pk> </home/nek/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/la
-bx1440.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex
-10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on report.pdf (2 pages, 100309 bytes).
+ 27i,9n,24p,506b,161s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/nek/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/lati1000.6
+00pk> </home/nek/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1200.600pk> </home/ne
+k/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </home/nek/.texmf-var/fo
+nts/pk/ljfour/lh/lh-t2a/labx1440.600pk></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on report.pdf (2 pages, 106837 bytes).
 PDF statistics:
- 151 PDF objects out of 1000 (max. 8388607)
+ 164 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
